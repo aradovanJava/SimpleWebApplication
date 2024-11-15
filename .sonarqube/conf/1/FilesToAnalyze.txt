@@ -1,0 +1,32 @@
+﻿C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Program.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\obj\Debug\net8.0\Web.GlobalUsings.g.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\wwwroot\app.css
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\wwwroot\bootstrap\bootstrap.min.css
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\wwwroot\bootstrap\bootstrap.min.css.map
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\wwwroot\favicon.png
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\appsettings.Development.json
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\appsettings.json
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\App.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Layout\MainLayout.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Layout\NavMenu.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Pages\Error.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Pages\Home.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Pages\Weather.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Routes.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\_Imports.razor
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\arado\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\8.0.5\tools\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Layout\MainLayout.razor.css
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Components\Layout\NavMenu.razor.css
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web\Properties\launchSettings.json

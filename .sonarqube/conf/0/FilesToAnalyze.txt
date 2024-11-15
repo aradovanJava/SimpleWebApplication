@@ -1,0 +1,8 @@
+﻿C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\Program.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\obj\Debug\net8.0\Web.Client.GlobalUsings.g.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\obj\Debug\net8.0\Web.Client.AssemblyInfo.cs
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\wwwroot\appsettings.Development.json
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\wwwroot\appsettings.json
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\Pages\Counter.razor
+C:\TEČAJEVI\2024\SPAN\15-11-2024\patterni - Copy\Web\Web.Client\_Imports.razor
